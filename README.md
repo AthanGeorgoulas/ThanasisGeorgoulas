@@ -1,60 +1,89 @@
-Here is the updated content for your GitHub `README.md` in English. I have integrated your postgraduate studies at the University of Macedonia (UOM) while maintaining the structure and professional tone of your original text.
-
------
-
 # 👋 Hi, I'm Thanasis Georgoulas
 
-📍 **Thessaloniki, Greece** 📧 [thanasisgeorgulas@gmail.com](mailto:thanasisgeorgulas@gmail.com)  
+📍 **Thessaloniki, Greece**  
+📧 [thanasisgeorgulas@gmail.com](mailto:thanasisgeorgulas@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/thanasisgeorgoulas)
 
------
+---
 
-### 🧑‍🔧 Who I Am
+## 🧑‍💻 About Me
 
-I am a **Telecom Field Engineer** and **Postgraduate Student** with a strong background in:
+I am a **Telecommunication Field Engineer** and **Postgraduate Student** with hands-on experience in telecommunications infrastructure, embedded systems, and network technologies.
 
-  - 📡 **Telecommunications:** BTS installation, Microwave links, and DWDM systems.
-  - 🌐 **Fiber Optics:** Certified technician in splicing, OTDR testing, and network maintenance.
-  - 🤖 **Automation:** Robotics,  Arduino, Raspberry Pi, and embedded systems.
+My background combines:
 
-I am a results-oriented technician passionate about innovation, digital twins, and next-generation network infrastructure.
+- 📡 **Telecommunications:** BTS installation and commissioning, microwave link alignment, DWDM configuration, and technical troubleshooting
+- 🌐 **Fiber Optics:** Training in fiber installation, splicing, OTDR testing, and fault diagnosis
+- 🤖 **Embedded Systems & Automation:** Arduino-based systems, sensors, robotics projects, and microcontroller programming
+- 🛠️ **Technical Operations & Coordination:** Field support, equipment preparation, secure documentation handling, and project-oriented problem solving
 
------
+I am especially interested in **next-generation systems and networks**, **IoT**, **automation**, **robotics**, and the future of digital infrastructure.
 
-### 🎓 Education
+---
 
-**M.Sc. in Applied Informatics (Next Generation Systems and Networks)** *University of Macedonia (UOM)* Focusing on IoT/IoDT, 5G/6G networks, and advanced computing systems.
+## 🎓 Education
 
-**B.Sc. in Computer, Informatics & Telecommunications Engineering** *International Hellenic University (IHU)* *Thesis: Autonomous Robotic Vehicle with Adaptive Cruise Control (Grade: 10/10)*
+### **M.Sc. in Applied Informatics**  
+**University of Macedonia (UOM), Greece**  
+*Specialization: Next Generation Systems and Networks*  
+**Oct 2025 – Present**
 
------
+- Focus on next-generation communication systems, including **5G/6G** and **IoT**
+- Coursework in **network architectures**, **cloud and distributed systems**
+- Academic emphasis on **cybersecurity** and **secure communication protocols**
 
-### 🏅 Certifications
+### **B.Sc. in Informatics Engineering**  
+**International Hellenic University (IHU), Greece**  
+**Oct 2018 – Apr 2025**
 
-  - **Fiber Optic Network Technician** – IHU (2024)
-  - **Work-at-Height & Telecom Tower Safety** – Enaeritis (2024)
-  - **Safety Technician (Category C)** – Learn-it (2022)
-  - **Certified Referee** – Educational Robotics Olympiad (2023)
+- Specialization in **Software and Information Systems** with a focus on **Project Management**
+- Experience with **Java**, **JavaFX**, **WordPress**, and **Git**
+- Participation in robotics and embedded systems projects
+- **GPA:** 6.69/10
 
------
+**Thesis:**  
+*Development of an Autonomous Robotic Vehicle Using a Microcontroller with Line Detection and Adaptive Cruise Control Simulation*  
+**Thesis Grade:** 10/10
 
-### 🛠️ Tech Stack & Skills
 
-  * **Languages:** C++, Java, JavaFX
-  * **Hardware:** Arduino, Raspberry Pi, ESP32, Sensors/Actuators
-  * **Telecom:** BTS Commissioning, Microwave Alignment, DWDM Configuration
-  * **Tools:** Git, WordPress, Microsoft Office Suite
+---
 
------
+## 🛠️ Skills
 
-### 💡 Interests
+### **Telecommunications**
+- BTS installation and commissioning
+- Microwave link installation and alignment
+- DWDM systems configuration and maintenance
+- Field troubleshooting and technical support
 
-Robotics, IoT/IoDT, Digital Twins, Renewable Energy Systems, and Future Infrastructure.
+### **Embedded Systems & Hardware**
+- Arduino
+- Raspberry Pi
+- Sensors and microcontroller-based systems
+- Robotics and automation projects
 
------
+### **Software & Tools**
+- C++
+- Java
+- JavaFX
+- Git
+- WordPress
+- Microsoft Office Suite
 
-### 📄 Download my CV (PDF)
+---
 
-➡️ [Click here to view or download the PDF version](Gr_Athanasios_Georgoulas_Cv.pdf)  
+## 🤖 Activities & Technical Interests
 
------
+- Educational robotics competitions
+- Embedded systems and automation
+- Arduino and Raspberry Pi projects
+- IoT and next-generation telecom technologies
+- Project management and technical innovation
+
+---
+
+## 📄 CV
+
+➡️ [Click here to view or download my CV](Gr_Athanasios_Georgoulas_Cv.pdf)
+
+---
