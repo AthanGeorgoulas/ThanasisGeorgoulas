@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thanasis Georgoulas
+# 👋 Hi, I'm Athanasios Georgoulas
 
 📍 **Thessaloniki, Greece**  
 📧 [thanasisgeorgulas@gmail.com](mailto:thanasisgeorgulas@gmail.com)  
