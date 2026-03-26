@@ -34,7 +34,7 @@ I am especially interested in **next-generation systems and networks**, **IoT**,
 
 ### **B.Sc. in Informatics Engineering**  
 **International Hellenic University (IHU), Greece**  
-**Oct 2018 – Apr 2025**
+**Oct 2018 – Sep 2023**
 
 - Specialization in **Software and Information Systems** with a focus on **Project Management**
 - Experience with **Java**, **JavaFX**, **WordPress**, and **Git**
@@ -61,6 +61,7 @@ I am especially interested in **next-generation systems and networks**, **IoT**,
 - Raspberry Pi
 - Sensors and microcontroller-based systems
 - Robotics and automation projects
+  
 
 ### **Software & Tools**
 - C++
@@ -68,7 +69,6 @@ I am especially interested in **next-generation systems and networks**, **IoT**,
 - JavaFX
 - Git
 - WordPress
-- Microsoft Office Suite
 
 ---
 
