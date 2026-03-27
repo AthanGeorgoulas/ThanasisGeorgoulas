@@ -31,6 +31,7 @@ I am especially interested in **next-generation systems and networks**, **IoT**,
 - Focus on next-generation communication systems, including **5G/6G** and **IoT**
 - Coursework in **network architectures**, **cloud and distributed systems**
 - Academic emphasis on **cybersecurity** and **secure communication protocols**
+- **Current GPA:** 8.5/10
 
 ### **B.Sc. in Informatics Engineering**  
 **International Hellenic University (IHU), Greece**  
